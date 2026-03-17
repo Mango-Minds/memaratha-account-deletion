@@ -1,6 +1,6 @@
-# Mi Maratha — Account Deletion Page
+# Me Maratha — Account Deletion Page
 
-This page is hosted on GitHub Pages for app store compliance. Users can visit this page to learn how to delete their Mi Maratha account and associated data.
+This page is hosted on GitHub Pages for app store compliance. Users can visit this page to learn how to delete their Me Maratha account and associated data.
 
 ## Deploy to GitHub Pages
 
@@ -30,4 +30,4 @@ This page is hosted on GitHub Pages for app store compliance. Users can visit th
 
 ## Update email
 
-Replace `support@mimaratha.co.in` in `index.html` with your actual support email if different.
+Support email: sgvrtech1@gmail.com
